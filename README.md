@@ -38,7 +38,7 @@ Once A-Frame and the `sharedspace` component are [installed](#install), this is 
 ```
 
 Unfortunately, the chatroom lacks from decoration and avatars will be spheres, which is not the best way of representing a human head. Instead, take a look at the [VR Chat application on Glitch](https://glitch.com/edit/#!/vr-chat) for a **functional** minimal setup.
-
+also look at [VR minimum room](https://hacks.mozilla.org/2017/10/multi-user-experiences-with-a-frame/) and [relevant tutorial](https://hacks.mozilla.org/2017/10/multi-user-experiences-with-a-frame/)
 ## Documentation
 
 When installing `sharedspace`, four components are registered with A-Frame:
